@@ -32,6 +32,7 @@ Para instalar Ruby deben ingresar a la pagina [Ruby](https://www.ruby-lang.org/e
 Una ves que tengan instalado *Ruby* deben continuar con la siguiente lista de herramientas: 
 
 * Rspec
+* Bundler
 
 
 #### Rspec
