@@ -38,6 +38,9 @@ Una ves que tengan instalado *Ruby* deben continuar con la siguiente lista de he
 
 RSpec es una herramienta de desarrollo guiado por comportamiento (BDD, algo fancy) en el proceso de escribir especificaciones legibles para humanos que dirijan y validen el desarrollo de la aplicación. Las instrucciones para su instalación están [aca](http://rspec.info/) 
 
+#### Bundler
+
+Bundler es una administrador de dependencias para Ruby. Aunque viene incluido con Rails, Bundler no es exclusivo de Rails, lo puedes usar para manejar las dependencias de cualquier proyecto de Ruby. Lo pueden instalar siguiendo las instrucciones que están  [aca](http://bundler.io/)
 
 ### Docker 
 
